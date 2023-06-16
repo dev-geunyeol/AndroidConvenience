@@ -1,5 +1,5 @@
-# AndroidConvenience
-### 안드로이드 기본 편의 코드
+# AndroidExample
+### 안드로이드 예제 코드
 <br>
 
 :question: 특정 디렉토리만 다운받는 방법

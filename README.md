@@ -1,11 +1,11 @@
-# AndroidConvenience
-### 안드로이드 기본 편의 코드
+# AndroidExample
+### 안드로이드 예제 코드
 <br>
 
 :question: 특정 디렉토리만 다운받는 방법
 ```
 git init
-git remote add origin https://github.com/dev-geunyeol/AndroidConvenience.git
+git remote add origin https://github.com/dev-geunyeol/AndroidExample.git
 git config core.sparsecheckout true
 echo [디렉토리명/*] >> .git/info/sparse-checkout
 git pull origin main

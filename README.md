@@ -22,3 +22,4 @@ git pull origin main
 | AlertDialogUse | AlertDialog 사용 및 종류(체크 & 라디오 dialog) |
 | FragmentDialog | DialogFragment 기본 사용법 |
 | DateConvert | String to Date Convert 날짜로 변환하기 |
+| WindowSizeAndDpi | 화면 사이즈 및 Dpi 구하기 |
